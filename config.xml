@@ -1,8 +1,8 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="co.gov.parquesnacionales.reservas" version="1.0.0">
   <name>Reservas</name>
-  <description>Hello World sample application that responds to the deviceready event.</description>
-  <author href="http://phonegap.com" email="support@phonegap.com">PhoneGap Team</author>
-  <content src="index.html"/>
+  <description>Parques Nacionales</description>
+  <author href="http://parquesnacionales.gov.co" email="jcesarrc@gmail.com">Parques Nacionales</author>
+  <content src="www/index.html"/>
   <preference name="permissions" value="none"/>
   <preference name="orientation" value="default"/>
   <preference name="target-device" value="universal"/>
