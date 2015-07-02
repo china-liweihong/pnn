@@ -2,7 +2,7 @@
   <name>Reservas</name>
   <description>Parques Nacionales</description>
   <author href="http://parquesnacionales.gov.co" email="jcesarrc@gmail.com">Parques Nacionales</author>
-  <content src="www/index.html"/>
+  <content src="index.html"/>
   <preference name="permissions" value="none"/>
   <preference name="orientation" value="default"/>
   <preference name="target-device" value="universal"/>
